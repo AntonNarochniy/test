@@ -14,5 +14,6 @@ public class Multiplication {
 	   }   
 	   
 	   System.out.println("test");
+	   System.out.println("test");
 	}
 }
